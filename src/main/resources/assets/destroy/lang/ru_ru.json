@@ -369,7 +369,7 @@
   "destroy.chemistry.acid":"Кислоты - это вещества, которые могут отдавать ионы водорода ({протоны, destroy:proton}) другим веществам. Они реагируют с {основаниями, destroy:base}.",
   "destroy.chemistry.addition":"Реакция сложения — это реакция, в которой группа прибавляется к {молекуле, destroy:molecule}.",
   "destroy.chemistry.addition_elimination":"Реакция сложения-вычитания - это реакция, в которой одна группа вычитается из {молекулы, destroy:molecule}, и только потом прибавляется другая. Это не похоже на {подстановку, destroy:substitution}, где оба случая происходят одновременно.",
-  "destroy.chemistry.addition_polymer":"Прибавление {полимера, destroy:polymer} не {конденсирует, destroy:condensation_polymer} побочный продукт, и часто протекает через {механизм, destroy:mechanism} {свободного радикала, destroy:radical}.".
+  "destroy.chemistry.addition_polymer":"Прибавление {полимера, destroy:polymer} не {конденсирует, destroy:condensation_polymer} побочный продукт, и часто протекает через {механизм, destroy:mechanism} {свободного радикала, destroy:radical}.",
   "destroy.chemistry.aldehyde":"Альдегид — это вещество [destroy:carbonyl], в котором карбонильный углерод {связан, destroy:bond} как минимум с одним водородом, в отличие от {кетона, destroy:ketone}.",
   "destroy.chemistry.alkane":"Алканы представляют собой группу {молекул, destroy:molecule}, содержащих только углерод и водород, и имеющие только одиночные {связи, destroy:bond}.",
   "destroy.chemistry.aqua_regia":"В переводе с латыни «королевская вода», царская водка представляет собой смесь [destroy:nitric_acid] и [destroy:hydrochloric_acid], которая может {растворять, destroy:solution} {благородные, destroy:inert} металлы, например золото.",
